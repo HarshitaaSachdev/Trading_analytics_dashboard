@@ -7,13 +7,14 @@ A modern React-based dashboard to visualize trading performance metrics and rece
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/your-username/trading-analytics-dashboard.git
 cd trading-analytics-dashboard
-2. Install dependencies
+
+### 2. Install dependencies
 npm install
 
-3. Run the app
+### 3. Run the app
 npm start
 
 The app runs on http://localhost:5173
