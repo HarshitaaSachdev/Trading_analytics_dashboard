@@ -23,7 +23,7 @@ Note:
 Make sure your backend API (for analytics data) runs locally at
 http://localhost:8081/analytics
 
-##💡 Design Decisions
+## Design Decisions
 
 🧩 Modular components — MetricCard, StatCard, and PerformanceChart for clean structure and reusability.
 
@@ -37,9 +37,10 @@ http://localhost:8081/analytics
 ![Dashboard Preview](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard1.png)
 
 
+
 ![Performance Chart](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard2.png)
 
 
 
-👩‍💻 Author
+👩‍💻 Author:
 Harshita Sachdev
