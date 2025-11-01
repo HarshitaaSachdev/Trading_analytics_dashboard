@@ -33,8 +33,13 @@ http://localhost:8081/analytics
 
 📈 Recharts for clear and interactive data visualization.
 
-🖼️ Preview
+## Preview
+
+
 ![Dashboard Preview](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard1.png)
+
+
+
 
 
 
