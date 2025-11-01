@@ -35,7 +35,7 @@ http://localhost:8081/analytics
 
 🖼️ Preview
 ![Dashboard Preview](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard1.png)
-![Performance Chart](./public/Dahboard2.png)
+![Performance Chart](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard2.png)
 
 
 
