@@ -1,45 +1,42 @@
-📊 Trading Analytics Dashboard
+# 📊 Trading Analytics Dashboard
 
-A modern React-based dashboard to visualize trading performance metrics and recent trends, built with React, Recharts, and TailwindCSS.
+A modern React-based dashboard to visualize trading performance metrics and recent trends, built with **React**, **Recharts**, and **TailwindCSS**.
 
-⚙️ Setup Instructions
+---
 
-Clone the repo
+## ⚙️ Setup Instructions
 
+### 1. Clone the repo
+```bash
 git clone https://github.com/your-username/trading-analytics-dashboard.git
 cd trading-analytics-dashboard
-
-
-Install dependencies
-
+2. Install dependencies
 npm install
 
-
-Run the app
-
+3. Run the app
 npm start
-
 
 The app runs on http://localhost:5173
 
-Backend
+Note:
 Make sure your backend API (for analytics data) runs locally at
 http://localhost:8081/analytics
 
 💡 Design Decisions
 
-Used modular components (MetricCard, StatCard, PerformanceChart) for clarity and reusability.
+🧩 Modular components — MetricCard, StatCard, and PerformanceChart for clean structure and reusability.
 
-Added dark/light mode using Tailwind for a better visual experience.
+🌗 Dark/Light mode using TailwindCSS for better user experience.
 
-Included error and loading states for smoother UX.
+⚡ Error and loading states for smoother UX.
 
-Used Recharts for simple, clean data visualization.
+📈 Recharts for clear and interactive data visualization.
 
-
-Preview 
+🖼️ Preview
 ![Dashboard Preview](./public/Dashboard1.png)
 ![Performance Chart](./public/Dahboard2.png)
 
-👩‍💻 Author:
+
+
+👩‍💻 Author
 Harshita Sachdev
