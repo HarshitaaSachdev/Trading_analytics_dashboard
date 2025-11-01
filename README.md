@@ -8,7 +8,7 @@ A modern React-based dashboard to visualize trading performance metrics and rece
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/trading-analytics-dashboard.git
+git clone https://github.com/your-username/trading_analytics_dashboard.git
 cd trading-analytics-dashboard
 
 ### 2. Install dependencies
@@ -23,7 +23,7 @@ Note:
 Make sure your backend API (for analytics data) runs locally at
 http://localhost:8081/analytics
 
-💡 Design Decisions
+##💡 Design Decisions
 
 🧩 Modular components — MetricCard, StatCard, and PerformanceChart for clean structure and reusability.
 
@@ -35,6 +35,8 @@ http://localhost:8081/analytics
 
 🖼️ Preview
 ![Dashboard Preview](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard1.png)
+
+
 ![Performance Chart](https://github.com/HarshitaaSachdev/Trading_analytics_dashboard/blob/main/preview/Dashboard2.png)
 
 
